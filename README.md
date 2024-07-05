@@ -7,6 +7,7 @@ I'm always excited to learn new tools and craft amazing user experiences.
 - Python
 - Typescript
 - LLMs
+- Prompting
 
 ## 🌟 What I'm Into:
 
