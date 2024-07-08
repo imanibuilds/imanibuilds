@@ -12,7 +12,7 @@ I'm always excited to learn new tools and craft amazing user experiences.
 ## 🌟 What I'm Into:
 
 - Exploring the latest tools in tech
-- Building user-friendly apps to make life easier
+- Building user-friendly apps that make life easier
 - Sharing insights and learning from other developers
 - Gardening and taking much-needed naps
 
